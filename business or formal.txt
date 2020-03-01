@@ -1,0 +1,3 @@
+Clothes: Collar StaysClothes: Cuff LinksClothes: Dress BeltClothes: Dress ShirtsClothes: Dress ShoesClothes: Dress SocksClothes: Sport CoatClothes: Suit
+Clothes: TiesOuterwear: Overcoat
+Gear: Business Cards

@@ -1,0 +1,5 @@
+Motorcycle: goggles
+Motorcycle: boots
+Motorcycle: balaclava
+Motorcycle: gloves
+Motorcycle: camelback

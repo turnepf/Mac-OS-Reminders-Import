@@ -1,0 +1,9 @@
+Return: Turn On Water Heater
+Return: Turn On Towel Warmer
+Return: Turn On Instant Hot
+Return: Turn Off SmartThings Vacation ModeReturn: Check Thermostat Vacation Mode
+Home: Turn Off Water Heater
+Home: Turn Off Towel Warmer
+Home: Turn Off Instant Hot
+Home: Turn Off Wm Den
+Home: Turn On SmartThings Vacation ModeHome: Set Thermostat Vacation Mode

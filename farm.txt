@@ -1,0 +1,5 @@
+Clothes: Chacos
+Clothes: Trail Shoes
+Gear: Hydraflask
+Gear: Waterproof Phone Bag
+Gear: Waterproof Bags

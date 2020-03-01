@@ -1,0 +1,8 @@
+Scuba: Certification Card
+Scuba: Mask
+Scuba: Boots
+Scuba: Snorkle
+Scuba: Fins
+Scuba: Bags
+Scuba: Log
+Scuba: Towels

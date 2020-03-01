@@ -1,0 +1,43 @@
+Groceries: Aluminum Foil
+Groceries: Asparagus
+Groceries: Bacon
+Groceries: Bananas
+Groceries: Beer
+Groceries: Bloody Mix
+Groceries: Bottled Water
+Groceries: Bourbon
+Groceries: Brats
+Groceries: Chips
+Groceries: Coffee
+Groceries: Creamer
+Groceries: Cutlery
+Groceries: Eggs
+Groceries: Ginger Ale
+Groceries: Ground Beef
+Groceries: Hamburger Buns
+Groceries: Ice
+Groceries: Ketchup
+Groceries: Lunch Meat
+Groceries: Mayo
+Groceries: Mustard
+Groceries: Orange Juice
+Groceries: Orange San Pellegrino
+Groceries: Paper Plates
+Groceries: Paper Towels
+Groceries: Pickles
+Groceries: Rice
+Groceries: Rubber Gloves
+Groceries: Salsa
+Groceries: Sandwich Bread
+Groceries: Sausage
+Groceries: Soda Water
+Groceries: Solo Cups
+Groceries: Steaks
+Groceries: Stove Fuel
+Groceries: Tortilla Chips
+Groceries: Trail mix
+Groceries: Trash Bags
+Groceries: Vodka
+Groceries: Vodka Minis
+Groceries: Waters
+Groceries: Wine

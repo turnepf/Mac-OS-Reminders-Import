@@ -1,0 +1,19 @@
+Groceries: Olive Oil
+Groceries: Seasoning
+Groceries: Mustard
+Groceries: Ketchup 
+Groceries: Mayonnaise
+Groceries: Cheese 
+Groceries: Coffee
+Groceries: Wine
+Groceries: Beer
+Groceries: Peanut butter 
+Groceries: Nuts
+Groceries: Saran Wrap
+Groceries: Zip Lock Bags
+Groceries: Aluminum Foil
+Groceries: Paper Towels
+Groceries: Clif Bars
+Groceries: Chips
+Groceries: Salsa
+Groceries: French Onion Dip
