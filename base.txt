@@ -1,0 +1,8 @@
+Clothes: BeltClothes: Blue JeansClothes: BoxersClothes: CapClothes: Casual ShoesClothes: Khaki PantsClothes: Knit ShirtsClothes: Laundry BagClothes: Long Sleeve Casual ShirtsClothes: Long Sleeve T-ShirtsClothes: Long UnderwearClothes: Pajama BottomsClothes: SandalsClothes: ShortsClothes: Sports PantsClothes: Sports ShortsClothes: Sports SocksClothes: Swim TrunksClothes: T-ShirtsClothes: Tennis ShoesDopp KitDopp Kit: AdvilDopp Kit: Allergy MedsDopp Kit: AveenoDopp Kit: Eczema MedsDopp Kit: Hair Gel
+Dopp Kit: Melatonin Dopp Kit: Q-TipsDopp Kit: ShampooDopp Kit: ShaverDopp Kit: SoapEntertainment: BackgammonEntertainment: CardsEntertainment: Download MoviesEntertainment: Headset - Bose
+Entertainment: Headset - Bose ChargeEntertainment: Headset BatteriesEntertainment: Headset SplitterEntertainment: Settlers of CatanGear: CarabinersGear: Glasses
+Gear: SunglassesGear: Umbrella
+Luggage: BackpackLuggage: CamelbackLuggage: Luggage Tags
+Luggage: Day PackOuterwear: BalaclavaOuterwear: FleeceOuterwear: Fleece CapOuterwear: PulloverOuterwear: Rain JacketOuterwear: Spring Weight Gloves
+Tech: GoProTech: GoPro BatteriesTech: GoPro ChargeTech: GoPro ChargerTech: GorillaPod 
+Tech: LaptopTech: Laptop ChargerTech: PhoneTech: Phone Car ChargerTech: USB Portable Charger Tech: Apple TV
